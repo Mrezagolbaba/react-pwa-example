@@ -66,3 +66,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### `Serving our PWA`
+Serve minified project (build folder) : serve -s build
+
+### `Setup ngrock`
+Create a tunnel through ngrok at port 5000  https://ngrok.com/download
